@@ -1,0 +1,337 @@
+.b1 {
+    border-radius: 3px;
+}
+
+.one a {
+    color: red;
+    text-decoration: none;
+    padding: 3px;
+}
+
+.one a:hover {
+    color: white;
+    background-color: red;
+}
+
+.img3 {
+    width: 195px;
+    height: 100px;
+}
+
+.img4 {
+    width: 133px;
+    height: 75px;
+}
+
+.img5 {
+    width: 70%;
+    float: left;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.748);
+    border-radius: 15px;
+    text-shadow: 1px 1px 100px green;
+}
+
+.navbar li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 6px;
+    font-size: 20px;
+
+    color: white;
+}
+
+.navbar li:hover {
+    cursor: pointer;
+}
+
+.dd {
+    width: 200px;
+    padding-left: 0px;
+    padding-right: 0px;
+    z-index: +1;
+    display: none;
+    position: absolute;
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 2px 100px gray;
+    border-radius: 15px;
+
+}
+
+.dd li {
+    display: block;
+
+    color: black;
+    margin: 0px;
+}
+
+.dd li:hover {
+    box-shadow: 1px 1px 25px rgb(247, 170, 5);
+}
+
+.drop1 {
+    top: 290px;
+    left: 23px;
+}
+
+.drop2 {
+    top: 290px;
+    left: 142px;
+}
+
+.drop3 {
+    top: 290px;
+    left: 335px;
+    width: 200px;
+}
+
+.drop5 {
+    top: 290px;
+    left: 770px;
+}
+
+.navbar ul li:hover>ul {
+    display: inherit;
+
+
+}
+
+.imp1 {
+    width: 58px;
+    height: 58px;
+    float: left;
+}
+
+.click {
+    padding: 2px;
+    display: inline-block;
+    width: 28%;
+    font-size: 10px;
+    text-align: center;
+    border: 1px solid red;
+    margin: 1px;
+    border-radius: 6px;
+}
+
+.click:hover {
+    box-shadow: 1px 1px 50px gray;
+}
+
+.drop li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-color: rgb(247, 170, 5);
+    color: white;
+    padding: 6px;
+}
+
+.container1 {
+    background-color: white;
+    width: 29%;
+    display: inline-block;
+    padding: 1px;
+    position: absolute;
+    top: 307px;
+    box-shadow: 1px 1px 100px gray;
+    border-radius: 15px;
+}
+
+
+.container2 {
+    width: 65%;
+    padding: 15px;
+    display: inline-block;
+    position: relative;
+    left: 30%;
+    z-index: -1;
+    border-radius: 15px;
+    box-shadow: 1px 1px 100px gray;
+}
+
+.btn {
+    padding: 4px;
+
+}
+
+.btn li {
+    display: block;
+    background-color: white;
+    text-decoration: none;
+    width: 92%;
+    height: 50px;
+    padding: 0px;
+    font-size: 18px;
+    border: none;
+    text-align: left;
+}
+
+.h li {
+    text-align: left;
+
+
+}
+
+.h li:hover {
+    color: white;
+    background-color: rgb(247, 170, 5);
+    cursor: pointer;
+    box-shadow: 1px 1px 20px gray;
+
+}
+
+.quote {
+    text-align: right;
+}
+
+.btn button {
+    background-color: white;
+    text-decoration: none;
+    width: 92%;
+    height: 50px;
+    padding: 0px;
+    font-size: 18px;
+    border: none;
+    text-align: left;
+}
+
+#cs li:hover {
+    color: white;
+    background-color: rgb(247, 170, 5);
+    cursor: pointer;
+    box-shadow: 1px 1px 20px gray;
+
+}
+
+.box {
+    margin: 6px;
+
+    padding: 3%;
+    box-shadow: 1px 1px 50px gray;
+    border-radius: 10px;
+}
+
+.box1 {
+    display: inline-block;
+    width: 34%;
+}
+
+.race {
+    color: white;
+    background-color: rgb(247, 170, 5);
+    border-radius: 35px;
+    border: none;
+    text-align: center;
+    position: relative;
+    left: 77%;
+}
+
+.right {
+    left: 93%;
+}
+
+button:hover {
+    position: relative;
+    top: -8px;
+    box-shadow: 1px 0px 15px gray;
+}
+
+.box2 {
+
+    display: inline-block;
+    width: 64%;
+    position: relative;
+    top: 100%;
+
+}
+
+iframe {
+    width: 90%;
+
+}
+
+footer {
+    background-color: #000000d9;
+}
+
+.foot {
+
+    display: inline-block;
+    width: 24%;
+    color: white;
+
+
+}
+
+.foot h2 {
+    color: rgb(247, 170, 5);
+
+}
+
+.foot ul li {
+    list-style: none;
+    font-size: 11px;
+    padding-left: 0px;
+
+}
+
+.part2 {
+    position: absolute;
+
+}
+
+.part3 {
+    position: absolute;
+    left: 45%;
+}
+
+.part4 {
+    position: absolute;
+    left: 75%;
+
+}
+
+.part2 li {
+    margin: 12px 4px;
+
+    font-size: 18px;
+}
+
+.part3 li {
+    margin: 12px 4px;
+
+    font-size: 14px;
+}
+
+.part4 li {
+    margin: 12px 4px;
+
+    font-size: 14px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.foot1 a:hover {
+    cursor: pointer;
+    position: relative;
+    left: 4%;
+    color: rgb(247, 170, 5);
+}
+.rom{
+    position: relative;
+    top: 70px;
+   
+}
